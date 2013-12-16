@@ -183,3 +183,50 @@ div.clickable p {
 	margin: 38px auto;
 	clear: both;
 }
+.swap_h1 {
+	font-size: 46px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 1.0em;
+	color: #222;
+	font-family: "CrimsonSemibold", "Times New Roman", Georgia, serif;
+	letter-spacing: -1px;
+}
+.swap_p {
+	color: #222;
+	font-size: 15px;
+	line-height: 1.4em;
+	margin: 15px 0 0 0;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+
+}
+.swap_span {
+	color: #369;
+	text-decoration: underline;
+}
+.swap {
+	position: relative;
+	display: block;
+	width: 825px;
+	height: 163px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 17px;
+	clear: both;
+}
+#arrow1 {
+	position: absolute;
+	z-index: 10000;
+	left: 240px;
+}
+#arrow2 {
+	position: absolute;
+	z-index: 10000;
+	left: 460px;
+}
+#arrow3 {
+	position: absolute;
+	z-index: 10000;
+	left: 540px;
+}
