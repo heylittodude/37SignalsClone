@@ -1,7 +1,4 @@
 $(document).ready(function() {
-<<<<<<< HEAD
-	$('div').css("background-color", "#ff0000");
-=======
 	$('#swap1').hide();
 	$('#swap2').hide();
 	$('#swap3').hide();
@@ -29,5 +26,4 @@ $(document).ready(function() {
 		$('#swap3').toggle();
 		$('#main').toggle();
 	});
->>>>>>> origin/gh-pages
 });
